@@ -1,0 +1,12 @@
+Mon Apr 8 08:34:39 UTC 2013
+
+Entry #1365410079
+
+--
+
+Running vee on Android
+
+Well, cheatng slightly; I'm using a union mounted Debian image to run a full environment; of
+course vee works just fine here. This environment gets me command-line git so I can update
+the final website; I'll have to look at the options for native git (not in busybox!) and
+see if I can improve the workflow further!
